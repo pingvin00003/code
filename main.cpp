@@ -13,10 +13,10 @@ int main()
 
 	cout << "\t\t\t3x + 1\n" << endl;
 
-	cout << "\nкакое значение хотите проверить?: ";
+	cout << "\nchoose first numer?: ";
 	cin >> a;
 
-	cout << "до какого значения?: ";
+	cout << "second number?: ";
 	cin >> z;
 
 	int result = a % 2;
